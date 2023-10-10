@@ -6,7 +6,9 @@
 
 ## Skills
 #### Languages and tools I've worked with
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,git,py,c,cpp,react,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,c,cpp,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 <!--
 **MakuAren/MakuAren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

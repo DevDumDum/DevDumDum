@@ -1,11 +1,12 @@
-# **Hi there 👋 I'm Mark Allen Cabutaje
+# Hi there 👋 I'm Mark Allen Cabutaje
 
 🌱 I’m currently learning flutter
 🔭 I’m currently working on a room IOT project
 ⚡ Fun fact: I also love cycling 👀
 
-## **Skiils
-
+## Skills
+#### Languages and tools I've worked with
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,git,py,c,cpp,react,arduino,raspberrypi)](https://skillicons.dev)
 <!--
 **MakuAren/MakuAren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

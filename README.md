@@ -1,10 +1,10 @@
-### Hi there 👋 I'm Mark Allen Cabutaje
+### **Hi there 👋 I'm Mark Allen Cabutaje
 
 🌱 I’m currently learning flutter
 🔭 I’m currently working on a room IOT project
 ⚡ Fun fact: I also love cycling 👀
 
-##Skiils
+**Skiils
 
 <!--
 **MakuAren/MakuAren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

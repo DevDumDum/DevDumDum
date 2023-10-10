@@ -1,8 +1,12 @@
-# Hi there 👋 I'm Mark Allen Cabutaje
+# <p align="center">Hi there 👋 I'm Mark Allen Cabutaje</p>
 
-🌱 I’m currently learning flutter
-🔭 I’m currently working on a room IOT project
-⚡ Fun fact: I also love cycling 👀
+ <dl>
+   <dd>&nbsp; &nbsp; &nbsp; An aspiring software developer with a Degree in Bachelor of Science in Computer Science at the Technological University of the Philippines Manila.</dd>
+ </dl>
+
+🌱 I’m currently learning flutter<br>
+🔭 I’m currently working on a room IOT project<br>
+⚡ Fun fact: I also love cycling 👀<br>
 
 ## Skills
 #### Languages and tools I've worked with

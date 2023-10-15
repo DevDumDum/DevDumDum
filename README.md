@@ -5,7 +5,7 @@
  </dl>
 
 🌱 I’m currently learning flutter<br>
-🔭 I’m currently working on a room IOT project<br>
+🔭 I’m currently working on a mini mobile game<br>
 ⚡ Fun fact: I also love cycling 👀<br>
 
 ## Skills

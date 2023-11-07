@@ -12,7 +12,7 @@
 #### Languages and tools I've worked with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,php,c,cpp,py,vue,flutter,git,arduino,raspberrypi&perline=5)](https://skillicons.dev)
 <br><br>
-### Currently using
+### Currently Studying
 [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,github)](https://skillicons.dev)
 <!--
 **MakuAren/MakuAren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

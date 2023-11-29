@@ -4,8 +4,8 @@
    <dd>&nbsp; &nbsp; &nbsp; An aspiring software developer with a Degree in Bachelor of Science in Computer Science at the Technological University of the Philippines Manila.</dd>
  </dl>
 
-🌱 I’m currently learning flutter<br>
-🔭 I’m currently working on a mini mobile game<br>
+🌱 I’m currently exploring flutter<br>
+🔭 I’m currently working on a mini mobile project game<br>
 ⚡ Fun fact: I also love cycling 👀<br>
 
 ## Skills
